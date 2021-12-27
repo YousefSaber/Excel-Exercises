@@ -14,3 +14,6 @@
     * Sorting
 * Make sure to download the files in the repostiroy on your local computers then viewing the files on your local computer. 
 ***
+## Incase of Errors and missing analysis. 
+* `~$extract-text.xlsx` doesn't work it's just created there by default, instead open the `extract-text.xlsx` file to view the analysis.
+***
