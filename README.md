@@ -1,18 +1,26 @@
 # Excel Practice Exercises.
 * This Repo contains some example for exercises and practices performed in Excel. 
 * These exercises covers basics on the following topics fo utilizing Excel for Data Analysis:
-    * Relative and Absolute Addressing
-    * Pivot Table
-    * Formula and Functions that includes:
+    * `albb-salaries-2003.xlsx` 
+        * Pivot Table
+        * Filteration
+        * Sorting
         * `COUNTIF`
         * `SUMIF`
-        * `XLOOKUP`
-        * `UNIQUE` 
+        * `AVERAGE`
+        * Text to columns
+    * `extract-text.xlsx`
         * `MID`
         * `FIND`
-    * Filtering 
-    * Sorting
-* Make sure to download the files in the repostiroy on your local computers then viewing the files on your local computer. 
+        * relative and absolute addressing
+    * `fruit-sum-average.xlsx`
+        * `AVERAGE`
+    * `special-orders.xlsx`
+        * `IF`
+    * `air-routes-sfo.xlsx`
+        * `XLOOKUP`
+        * `COUNTA`
+        * Pivot Table
 ***
 ## Incase of Errors and missing analysis. 
 * `~$extract-text.xlsx` doesn't work it's just created there by default, instead open the `extract-text.xlsx` file to view the analysis.
