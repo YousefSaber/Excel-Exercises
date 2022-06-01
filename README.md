@@ -21,7 +21,6 @@
         * `XLOOKUP`
         * `COUNTA`
         * Pivot Table
- * Make sure to download the files locally before opening them in a browser. 
 ***
 ## Incase of Errors and missing analysis. 
 * `~$extract-text.xlsx` doesn't work it's just created there by default, instead open the `extract-text.xlsx` file to view the analysis.
